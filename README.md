@@ -3,7 +3,8 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-[(https://urban-barnacle-gxqqwv5q5wgh9p6r-5005.app.github.dev/)](https://urban-barnacle-gxqqwv5q5wgh9p6r-5005.app.github.dev/)
+[(https://urban-barnacle-gxqqwv5q5wgh9p6r-5005.app.github.dev/)](https://urban-barnacle-gxqqwv5q5wgh9p6r-5005.app.github.dev/),
+[(https://stmeguen.github.io/kic_chatroom.github.io/)](https://stmeguen.github.io/kic_chatroom.github.io/)
 
 
 #### To create your own chatroom:
